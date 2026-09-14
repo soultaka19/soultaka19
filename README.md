@@ -10,12 +10,12 @@ Les applications ci-dessous sont en ligne et je les administre moi-même : mises
 
 | Projet | Ce qu'il fait | Pile | |
 |---|---|---|---|
-| **SafeOttawa** | Itinéraires piétons classés par risque, calculés sur 94 406 collisions publiées par la Ville d'Ottawa. Lauréat InnovaCode 2026. | Next.js · Python · PostgreSQL | [ouvrir](https://safeottawa.soultaka.com) · [code](https://github.com/soultaka19/safeottawa) |
-| **TechMaint** | Gestion d'interventions terrain multi-locataire, cloisonnée jusque dans les canaux temps réel. | .NET · Angular · SignalR · PostgreSQL | [ouvrir](https://techmaint.soultaka.com/demo) · [code](https://github.com/soultaka19/gestion-intervention) · [api](https://github.com/soultaka19/GestionInterventionApi) |
-| **MediPlan** | Prise de rendez-vous médicaux multi-cliniques, sans double réservation possible. | NestJS · Angular · PostgreSQL | [ouvrir](https://mediplan.soultaka.com/demo) · [code](https://github.com/soultaka19/mediplan) |
-| **Devis BTP** | Une description dictée à la voix devient un devis PDF structuré, unités et TVA validées. | Angular · FastAPI · PostgreSQL | [ouvrir](https://devis-btp.soultaka.com/demo) · [code](https://github.com/soultaka19/devis-btp) |
-| **ProfMatch** | Affectation des professeurs aux cours, avec une justification lisible par recommandation. | Next.js · FastAPI · PostgreSQL | [ouvrir](https://profmatch.soultaka.com/demo) · [code](https://github.com/soultaka19/profmatch) |
-| **ZenGadget** | Boutique en ligne installable, bilingue, sans base de données. | Next.js · TypeScript · Tailwind | [ouvrir](https://zengadget.soultaka.com) · [code](https://github.com/soultaka19/zen-gadget) |
+| **SafeOttawa** | Itinéraires piétons classés par risque, calculés sur 94 406 collisions publiées par la Ville d'Ottawa. Lauréat InnovaCode 2026. | Next.js · Python · PostgreSQL | [ouvrir](https://safeottawa.soultaka.com) · [code](https://github.com/souleymane-diallo-tech/safeottawa) |
+| **TechMaint** | Gestion d'interventions terrain multi-locataire, cloisonnée jusque dans les canaux temps réel. | .NET · Angular · SignalR · PostgreSQL | [ouvrir](https://techmaint.soultaka.com/demo) · [code](https://github.com/souleymane-diallo-tech/gestion-intervention) · [api](https://github.com/souleymane-diallo-tech/GestionInterventionApi) |
+| **MediPlan** | Prise de rendez-vous médicaux multi-cliniques, sans double réservation possible. | NestJS · Angular · PostgreSQL | [ouvrir](https://mediplan.soultaka.com/demo) · [code](https://github.com/souleymane-diallo-tech/mediplan) |
+| **Devis BTP** | Une description dictée à la voix devient un devis PDF structuré, unités et TVA validées. | Angular · FastAPI · PostgreSQL | [ouvrir](https://devis-btp.soultaka.com/demo) · [code](https://github.com/souleymane-diallo-tech/devis-btp) |
+| **ProfMatch** | Affectation des professeurs aux cours, avec une justification lisible par recommandation. | Next.js · FastAPI · PostgreSQL | [ouvrir](https://profmatch.soultaka.com/demo) · [code](https://github.com/souleymane-diallo-tech/profmatch) |
+| **ZenGadget** | Boutique en ligne installable, bilingue, sans base de données. | Next.js · TypeScript · Tailwind | [ouvrir](https://zengadget.soultaka.com) · [code](https://github.com/souleymane-diallo-tech/zen-gadget) |
 
 ### Ce que je construis
 
@@ -29,4 +29,4 @@ Trois ans sur des applications de gestion en entreprise, chez un éditeur de sol
 
 Je cherche un poste de développeur full-stack ou d'analyste-programmeur, à Montréal, à Toronto ou à distance.
 
-[soultaka.com](https://soultaka.com) · [LinkedIn](https://linkedin.com/in/souleyman-dev) · diallosouleymanetaka@gmail.com
+[soultaka.com](https://soultaka.com) · [LinkedIn](https://linkedin.com/in/souleyman-dev) · souleymane.diallo.tech@gmail.com
